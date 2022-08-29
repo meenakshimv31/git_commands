@@ -4,3 +4,4 @@ git add -A
 git commit-m "this is initial commit"
 git log
 git remote add name path
+git remote -v
